@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Chirag+Thukran;Full+Stack+Developer;Founder+of+Vwebit;Open+Source+Contributor;Building+AI+Powered+Products)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=header"/>
-
-<img src="https://komarev.com/ghpvc/?username=chiragthukran&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/chiragthukran?label=Followers&style=for-the-badge&color=2575fc"/>
-
 </div>
 
 <br>
@@ -16,13 +11,18 @@
 <tr>
 <td width="60%" valign="top">
 
-### 👋 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=26&duration=3000&pause=800&color=6A11CB&center=false&vCenter=true&width=500&height=45&lines=%F0%9F%91%8B+About+Me" />
+
+> <b><i>Full-stack developer who loves shipping fast, clean, and scalable products.</i></b>
 
 - 🚀 I'm currently working on **Vwebit**, a web development startup, building scalable full-stack applications.
 - 🤝 Looking to collaborate on **open-source projects, SaaS products, AI-powered applications, and modern web development**.
 - 📚 Currently learning **Advanced System Design, Kubernetes, AWS, Microservices, and AI integrations**.
 - 💬 Ask me about **C++, Data Structures & Algorithms, React, Next.js, Node.js, FastAPI, PostgreSQL, Docker, and Full-Stack Development**.
-- ⚡ Fun fact: I turn coffee into code, and bugs into "features" 😄
+
+<sub>⚡ <i>Fun fact: I turn coffee into code, and bugs into "features" 😄</i></sub>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=500&color=00C7B7&center=false&vCenter=true&width=500&height=30&lines=Currently+shipping+%F0%9F%9A%80;Debugging+in+production+%F0%9F%98%85;Always+learning+something+new+%F0%9F%93%9A" />
 
 </td>
 <td width="40%" valign="top">
@@ -108,15 +108,6 @@
 
 <br>
 
-<!-- ===================== TROPHIES ===================== -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chiragthukran&theme=algolia&no-frame=true&margin-w=8&row=1"/>
-</p>
-
-<br>
-
 <!-- ===================== STATS ===================== -->
 ## 📊 GitHub Stats
 
@@ -156,34 +147,12 @@
 <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-season-animate.svg"/>
 </p>
 
-<br>
-
-<!-- ===================== ACTIVITY GRAPH ===================== -->
-## 📈 Contribution Graph
-
-<p align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chiragthukran&theme=tokyo-night"/>
-</a>
-</p>
-
-<br>
-
-### 🔝 Top Contributed Repo
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=chiragthukran&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
-
-<br>
-
 <div align="center">
 
 [![](https://komarev.com/ghpvc/?username=chiragthukran&icon=2&color=3)](https://visitcount.itsvg.in)
 
 ### ⭐ Thanks for stopping by — feel free to explore my repos and connect!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=140&section=footer"/>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
