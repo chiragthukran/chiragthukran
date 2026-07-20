@@ -122,34 +122,8 @@
 
 <br>
 
-## 📌 GitHub Summary
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chiragthukran&theme=github_dark"/>
-</p>
 
-<p align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chiragthukran&theme=github_dark"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chiragthukran&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chiragthukran&theme=github_dark"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chiragthukran&theme=github_dark&utcOffset=5.5"/>
-</p>
-
-<br>
-
-<!-- ===================== 3D CALENDAR ===================== -->
-## 🌟 3D Contribution Calendar
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-season-animate.svg"/>
-</p>
-
-<div align="center">
-
-[![](https://komarev.com/ghpvc/?username=chiragthukran&icon=2&color=3)](https://visitcount.itsvg.in)
 
 ### ⭐ Thanks for stopping by — feel free to explore my repos and connect!
 
