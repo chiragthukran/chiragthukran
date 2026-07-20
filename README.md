@@ -1,13 +1,16 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Chirag%20Thukran&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Chirag+Thukran;Full+Stack+Developer;Founder+of+Vwebit;Open+Source+Contributor;Building+AI+Powered+Products)](https://git.io/typing-svg)
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=chiragthukran&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 ### 👋 About Me
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Chirag%20Yadav&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
 -  I'm currently working on **Vwebit**, a web development startup, and building scalable full-stack applications.
 -  I'm looking to collaborate on **open-source projects, SaaS products, AI-powered applications, and modern web development**.
 -  I'm currently learning **Advanced System Design, Kubernetes, AWS, Microservices, and AI integrations**.
