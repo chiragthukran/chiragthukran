@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Chirag+Yadav;Full+Stack+Developer;Founder+of+Vwebit;Open+Source+Contributor;Building+AI+Powered+Products)](https://git.io/typing-svg)
 ### 👋 About Me
 
 -  I'm currently working on **Vwebit**, a web development startup, and building scalable full-stack applications.
