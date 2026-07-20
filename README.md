@@ -4,7 +4,7 @@
 -  I'm looking to collaborate on **open-source projects, SaaS products, AI-powered applications, and modern web development**.
 -  I'm currently learning **Advanced System Design, Kubernetes, AWS, Microservices, and AI integrations**.
 -  Ask me about **C++, Data Structures & Algorithms, React, Next.js, Node.js, FastAPI, PostgreSQL, Docker, and Full-Stack Development**.
-
+![](https://gifgifs.com/animations/computers-technology/computers-and-parts/happy_1.gif)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chiragthukran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chiragthukran) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chiragthukran) 
 
