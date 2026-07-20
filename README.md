@@ -1,4 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Chirag%20Thukran&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Chirag+Thukran;Full+Stack+Developer;Founder+of+Vwebit;Open+Source+Contributor;Building+AI+Powered+Products)](https://git.io/typing-svg)
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
