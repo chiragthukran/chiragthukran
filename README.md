@@ -39,15 +39,7 @@
 
 <br>
 
-## 🌐 Connect With Me
 
-<p align="center">
-<a href="https://instagram.com/chiragthukran"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"/></a>
-<a href="https://linkedin.com/in/chiragthukran"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-<a href="https://x.com/chiragthukran"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge"/></a>
-</p>
-
-<br>
 
 <!-- ===================== TECH STACK ===================== -->
 ## 💻 Tech Stack
@@ -104,6 +96,15 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
 <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220"/>
+</p>
+
+<br>
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://instagram.com/chiragthukran"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"/></a>
+<a href="https://linkedin.com/in/chiragthukran"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<a href="https://x.com/chiragthukran"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 <br>
